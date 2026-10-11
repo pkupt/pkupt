@@ -1,6 +1,8 @@
 # Kevin Zhang
 
-Maintainer at [Semantica](https://github.com/semantica-agi/semantica), a graph-native context and accountability layer for AI systems (13.9k stars, MIT).
+Maintainer at [Semantica](https://github.com/semantica-agi/semantica), a graph-native context and accountability layer for AI systems.
+
+[![GitHub stars](https://img.shields.io/github/stars/semantica-agi/semantica?style=flat-square&label=stars&color=FFD700&logo=github)](https://github.com/semantica-agi/semantica/stargazers) [![Forks](https://img.shields.io/github/forks/semantica-agi/semantica?style=flat-square&logo=github)](https://github.com/semantica-agi/semantica/network/members) [![License](https://img.shields.io/github/license/semantica-agi/semantica?style=flat-square)](https://github.com/semantica-agi/semantica/blob/main/LICENSE)
 
 I work on the ontology lifecycle and the knowledge graph layer:
 
